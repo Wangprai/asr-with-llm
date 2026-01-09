@@ -8,7 +8,7 @@ Thai Automatic Speech Recognition (ASR) system using **wav2vec 2.0**, **CTC deco
 
 This project aims to develop and evaluate a Thai ASR system by integrating:
 
-* Acoustic Model (wav2vec 2.0)
+* Acoustic Model (wav2vec 2.0) from https://huggingface.co/Wangprai/wav2vec2-th
 * CTC-based decoder
 * Statistical Language Model (KenLM)
 
@@ -60,7 +60,7 @@ asr-with-llm/
 * React
 * TypeScript
 * Vite
-* Ant Design
+* ShadCN
 
 ---
 
