@@ -1,0 +1,16 @@
+kenlm
+pyctcdecode
+fastapi
+uvicorn
+python-multipart
+pydantic-settings
+python-dotenv
+torch
+transformers
+torchaudio
+librosa
+soundfile
+langchain
+langchain-google-genai
+google-generativeai
+ffmpeg

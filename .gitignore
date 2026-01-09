@@ -1,0 +1,29 @@
+# ===== Python =====
+backend/.venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# ===== ML / ASR =====
+*.pt
+*.ckpt
+*.bin
+*.arpa
+*.klm
+*.wav
+*.mp3
+*.flac
+data/
+datasets/
+
+# ===== Node / Frontend =====
+frontend/node_modules/
+frontend/dist/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Env =====
+.env
+.env.*

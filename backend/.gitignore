@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# ASR models
+*.pt
+*.ckpt
+*.bin
+
+# Language Model
+*.arpa
+*.binary
+
+# Data
+data/
+datasets/
+audio/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
